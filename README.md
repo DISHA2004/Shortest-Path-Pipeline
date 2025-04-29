@@ -31,12 +31,12 @@ This isn’t just a pathfinding algorithm — it’s a **data engineering pipeli
 
 ---
 
-## 🔮 Future Vision (One-Liner)
+## 🔮 Future Vision
 
-> 🌐 **Integrate with a real-world mapping API and deploy as a route optimization microservice for logistics companies.**
+ 🌐 **Integrate with a real-world mapping API and deploy as a route optimization microservice for logistics companies.**
 
 ---
-Graph Output Example :
+## Graph Output Example :
 
 ![Figure_1](https://github.com/user-attachments/assets/c1aca5ba-7ca6-43bd-8138-277f806f07fe)
 
