@@ -1,11 +1,48 @@
-:
+# 📍 Shortest Path Delivery Network (Warehouse Route Optimizer)
 
-📌 Real-World Problem Statement:
+This is a real-world simulation of a delivery network that finds the **shortest route between warehouses** using a graph-based approach.  
+Built using Python, NetworkX, and Matplotlib, the project mimics how logistics companies optimize delivery routes.
 
-In logistics and delivery systems, identifying the most efficient delivery route between two warehouse locations is crucial for minimizing fuel costs, reducing delivery times, and improving operational efficiency.
+---
 
-This project simulates a shortest-path routing system for a delivery company using real or synthetic road network data.
+## 🚀 Project Overview
 
-The system takes input from a CSV-based dataset (or simulated API) representing city roads and intersections. It then builds a graph, runs an optimized shortest path algorithm (like BFS or Dijkstra), and outputs the most efficient route with distance metrics.
+This project transforms a classic DSA problem into a **production-style data engineering pipeline**.  
+It takes warehouse/road data from a CSV, builds a weighted graph, allows user input for source & destination, calculates the shortest path using **Breadth-First Search**, and visualizes the result with edge distances.
 
-The goal is to showcase the data engineering pipeline — from data ingestion and cleaning to transformation, algorithmic processing, and final output visualization.
+---
+## 🧠 Why This Project?
+
+This isn’t just a pathfinding algorithm — it’s a **data engineering pipeline**:
+- Raw data ingestion (CSV)
+- Data modeling (graph construction)
+- Algorithmic processing (BFS)
+- Result visualization (Matplotlib)
+- Clean, modular code (real-world-ready)
+
+  
+## 🧰 Tech Stack
+
+- **Python** – Core scripting
+- **NetworkX** – Graph construction & traversal
+- **Matplotlib** – Graph visualization
+- **CSV** – Simulated warehouse/road data
+- *(Future: API integration, Streamlit UI, Airflow orchestration)*
+
+---
+
+## 🔮 Future Vision (One-Liner)
+
+> 🌐 **Integrate with a real-world mapping API and deploy as a route optimization microservice for logistics companies.**
+
+---
+Graph Output Example :
+
+![Figure_1](https://github.com/user-attachments/assets/c1aca5ba-7ca6-43bd-8138-277f806f07fe)
+
+---
+
+## 🤝 Let's Connect
+
+> Built by Disha Gupta — [LinkedIn](https://linkedin.com/in/disha-gupta-32854a219)  
+> Aspiring Data Engineer | ASE Accenture | Python, SQL, Data Pipelines  
